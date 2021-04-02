@@ -1,0 +1,28 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #aee1e1 ;
+}
+
+#one {
+    background-color: #52734d ;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 25px 20px;
+    height: 150px;
+}
+
+#two {
+    background-color: #2f5d62;
+    border-width: 3px;
+    border-color:black;
+    border-style:solid;
+    border-radius: 2%;
+
+}
+
+#three {
+    background-color: #29bb89;
+    text-align: center;
+}
